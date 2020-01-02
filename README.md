@@ -1,7 +1,7 @@
 # Calculator
 designing and developing a simple calculator
 
-Try it! ----> 
+Try it! ----> https://codepen.io/oxana-krisyuk/full/LYENxKZ
 
 ## Technology:
 JavaScript, HTML, CSS, React
